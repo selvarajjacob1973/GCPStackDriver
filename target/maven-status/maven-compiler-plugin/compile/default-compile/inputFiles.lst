@@ -1,0 +1,7 @@
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\CurrencyExchangeServiceApplicationH2.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\security\SecurityConfiguration.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\environment\InstanceInformationService.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValue.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValueRepository.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\CurrencyExchangeController.java
+C:\K8GCP\kubernetes-crash-course-master\07-currency-exchange-microservice-stackdriver\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\environment\EnvironmentConfigurationLogger.java
